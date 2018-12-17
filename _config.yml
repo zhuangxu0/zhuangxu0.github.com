@@ -1,13 +1,13 @@
 # Site settings
-title: Zhuang Xu - Desenvolvedor
-description: A blog about lorem ipsum dolor sit amet
+title: Zhuang Xu - Practitioner
+description: A blog about ZhuangXu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://xuzhuang.art" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Zhuang Xu
-user_description: Anon Developer at Lorem Ipsum Dolor
-email:
+user_description: Practitioner
+email: xu_lyman@163.com
 twitter_username:
 github_username:  zhuangxu0
 gplus_username:
