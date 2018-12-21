@@ -3,7 +3,7 @@ layout: post
 title: OpenStack-Networking(1)
 date: 2018-12-21 17:05:07
 image: '/assets/img/'
-description: test
+description: OpenStack中网络服务基础，两种网络类型provider or self-service network,网络隔离技术vlan and vxlan.
 main-class: shu
 color: '#7AAB13'
 tags:
