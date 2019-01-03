@@ -11,7 +11,7 @@ tags:
 - Network
 categories:
 twitter_text: OpenStack networking, vlan and vxlan
-introduction: How to use this template
+introduction: OpenStack中网络服务基础，两种网络类型provider or self-service network,网络隔离技术vlan and vxlan.
 ---
 
 # I.OpenStack中的网络服务
