@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to class articles"
+title: "How to classify the articles"
 date: 2016-06-28 20:35:48
 image: '/assets/img/'
 description: '文章如何组织'
