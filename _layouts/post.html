@@ -10,11 +10,11 @@
                 {{ content }}
             </article>
 
-            {% include share.html %}
-            {% include author.html %}
-            <!--{% if page.comments != false %} -->
-                <!--{% include comments.html %}-->
-            <!--{% endif %}-->
+            <!--{% include share.html %}-->
+            <!--{% include author.html %}-->
+            {% if page.comments != false %}
+                {% include comments.html %}
+            {% endif %}
             {% include footer.html %}
         </section>
     </body>
