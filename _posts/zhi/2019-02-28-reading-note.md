@@ -10,7 +10,7 @@ tags:
 - '哲学类读书笔记'
 - 
 categories:
-- ReadingNotes
+- 'Reading Notes'
 twitter_text: 
 introduction: 2019年1,2月读书笔记,中国哲学简史-冯友兰
 ---
