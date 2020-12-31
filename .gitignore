@@ -2,3 +2,7 @@
 _site
 node_modules
 _drafts
+*.project
+*.iml
+*.idea
+**.iml
